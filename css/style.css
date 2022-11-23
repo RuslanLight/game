@@ -127,12 +127,12 @@ h3 {
 }
 
 .game_block.diamond {
-    background-image: url(/img/diamond_block.png);
+    background-image: url(./img/diamond_block.png);
     background-size: contain;
 }
 
 .game_block.skeleton {
-    background-image: url(/img/death_block.png);
+    background-image: url(./img/death_block.png);
     background-size: contain;
 }
 
